@@ -8,52 +8,52 @@
   "start_url": "https://portal.altacg.com/loans/",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/acrob0t/tb-code/main/dist/assets/logos/icon_72x72.png",
+      "src": "https://raw.githubusercontent.com/acrob0t/tb-open/main/dist/assets/logos/icon_72x72.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/acrob0t/tb-code/main/dist/assets/logos/icon_96x96.png",
+      "src": "https://raw.githubusercontent.com/acrob0t/tb-open/main/dist/assets/logos/icon_96x96.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/acrob0t/tb-code/main/dist/assets/logos/icon_128x128.png",
+      "src": "https://raw.githubusercontent.com/acrob0t/tb-open/main/dist/assets/logos/icon_128x128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/acrob0t/tb-code/main/dist/assets/logos/icon_144x144.png",
+      "src": "https://raw.githubusercontent.com/acrob0t/tb-open/main/dist/assets/logos/icon_144x144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/acrob0t/tb-code/main/dist/assets/logos/icon_152x152.png",
+      "src": "https://raw.githubusercontent.com/acrob0t/tb-open/main/dist/assets/logos/icon_152x152.png",
       "sizes": "152x152",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/acrob0t/tb-code/main/dist/assets/logos/icon_167x167.png",
+      "src": "https://raw.githubusercontent.com/acrob0t/tb-open/main/dist/assets/logos/icon_167x167.png",
       "sizes": "167x167",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/acrob0t/tb-code/main/dist/assets/logos/icon_180x180.png",
+      "src": "https://raw.githubusercontent.com/acrob0t/tb-open/main/dist/assets/logos/icon_180x180.png",
       "sizes": "180x180",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/acrob0t/tb-code/main/dist/assets/logos/icon_192x192.png",
+      "src": "https://raw.githubusercontent.com/acrob0t/tb-open/main/dist/assets/logos/icon_192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/acrob0t/tb-code/main/dist/assets/logos/icon_384x384.png",
+      "src": "https://raw.githubusercontent.com/acrob0t/tb-open/main/dist/assets/logos/icon_384x384.png",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/acrob0t/tb-code/main/dist/assets/logos/icon_512x512.png",
+      "src": "https://raw.githubusercontent.com/acrob0t/tb-open/main/dist/assets/logos/icon_512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
