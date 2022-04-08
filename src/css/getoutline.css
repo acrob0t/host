@@ -1,0 +1,144 @@
+:root {
+
+    --h-color: 3, 102, 214;
+    --hd-color: 11, 236, 172;
+    --b-color: 155, 54, 191;
+    --success: 5, 189, 140;
+    --info: 32, 122, 241;
+    --warning: 252, 180, 21;
+    --danger: 255, 65, 67;
+    --int-link: 173, 54, 122;
+    --ext-link: 32, 122, 241;
+    --elink-h: 214;
+    --elink-s: 88%;
+    --elink-l: 53%;
+}
+
+.kCgpin a,
+.eUYBxW a,
+.jsnWhJ a,
+.lbbYpI a,
+.dnpbjf a:focus {
+    color: rgba(var(--hd-color), 1);
+    font-weight: 600;
+}
+/* .kCgpin a:hover,
+.eUYBxW a:hover,
+.jsnWhJ a:hover,
+.lbbYpI a:hover, */
+.cqcgVn:hover {
+    color: rgba(var(--hd-color), 1);
+}
+
+/* ------------------------------------------------ */
+/*   Hyperlinks                                     */
+/* ------------------------------------------------ */
+/* --- Light Theme Links ----------------------------- */
+.eUYBxW p a,
+.dCnBLc p a,
+.dCnBLc p a:hover,
+.dCnBLc .notice-block.info a,
+.dCnBLc .notice-block.info a:hover,
+.dCnBLc .notice-block.warning a,
+.dCnBLc .notice-block.warning a:hover,
+.dCnBLc .notice-block.tip a,
+.dCnBLc .notice-block.tip a:hover {
+    color: rgba(var(--ext-link), 1);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* --- Dark Theme Links ----------------------------- */
+.gDhVYi p a,
+.gDhVYi p a:hover {
+    /*     color: hsla(var(--elink-h), var(--elink-s), calc(var(--elink-l) + 15%)); */
+    color: rgba(var(--hd-color), 1);
+    text-decoration: underline rgba(var(--hd-color), 1);
+    cursor: pointer;
+}
+
+/* ------------------------------------------------ */
+/*   Line Spacing                                   */
+/* ------------------------------------------------ */
+.dCnBLc .ProseMirror > *,
+.gDhVYi .ProseMirror > * {
+    margin-top: 0.85em;
+    margin-bottom: 0.85em;
+}
+
+/* ------------------------------------------------ */
+/*   Admonition Boxes                               */
+/* ------------------------------------------------ */
+.dCnBLc .notice-block.info,
+.gDhVYi .notice-block.info {
+    background: rgba(var(--info), .1);
+    border-left: 4px solid rgba(var(--info), 1);
+}
+
+.dCnBLc .notice-block.tip,
+.gDhVYi .notice-block.tip {
+    background: rgba(var(--success), .1);
+    border-left: 4px solid rgba(var(--success), 1);
+}
+
+.dCnBLc .notice-block.warning,
+.gDhVYi .notice-block.warning {
+    background: rgba(var(--warning), .1);
+    border-left: 4px solid rgba(var(--warning), 1);
+}
+
+.notice-block .icon {
+    display: none;
+}
+
+blockquote > p {
+    color: rgba(var(--b-color), 1);
+    font-weight: 500;
+}
+
+/* ------------------------------------------------ */
+/*   Headings                                       */
+/* ------------------------------------------------ */
+.dCnBLc .ProseMirror h1,
+.dCnBLc .ProseMirror h2,
+.dCnBLc .ProseMirror h3,
+.dCnBLc .ProseMirror h4,
+.dCnBLc .ProseMirror h5,
+.dCnBLc .ProseMirror h6 {
+    padding-bottom: 2px;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid rgba(232, 235, 237, 1);
+}
+
+.gDhVYi .ProseMirror h1,
+.gDhVYi .ProseMirror h2,
+.gDhVYi .ProseMirror h3,
+.gDhVYi .ProseMirror h4,
+.gDhVYi .ProseMirror h5,
+.gDhVYi .ProseMirror h6 {
+    padding-bottom: 2px;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    border-bottom: 1px solid rgba(232, 235, 237, .1);
+}
+
+.dCnBLc .ProseMirror h1,
+.gDhVYi .ProseMirror h1 {
+    font-size: 2em;
+}
+
+.dCnBLc .ProseMirror h2,
+.gDhVYi .ProseMirror h2 {
+    font-size: 1.6em;
+}
+
+.dCnBLc .ProseMirror h3,
+.gDhVYi .ProseMirror h3 {
+    font-size: 1.4em;
+}
+
+.dCnBLc .ProseMirror h4,
+.gDhVYi .ProseMirror h4 {
+    font-size: 1.12em;
+}
